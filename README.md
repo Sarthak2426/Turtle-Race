@@ -13,8 +13,12 @@ Pick a color, place your bet, and cheer like it matters.
 
 ---
 
-## 🧰 Requirements
+## 📸 Preview
+![Turtle Race preview](preview.png)
 
+---
+
+## 🧰 Requirements
 - **Python 3.10+**
 - Uses only the Python **standard library**:
   - `turtle`
@@ -26,7 +30,6 @@ Pick a color, place your bet, and cheer like it matters.
 ---
 
 ## 🚀 Run
-
 Clone and run:
 
 ```bash
